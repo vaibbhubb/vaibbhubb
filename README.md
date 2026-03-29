@@ -53,6 +53,10 @@ I'm always open to discussing tech, playing a match of chess, or exploring new i
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibbhubb&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibbhubb&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=vaibbhubb&theme=radical)
+
+![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibbhubb&theme=radical)
+
 ---
 
 **Have an octostatic day!** 🐙✨
