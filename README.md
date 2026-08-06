@@ -3,7 +3,7 @@
 ### 📊 Analytical Thinker | PCM Scholar | Tech Enthusiast
 📍 *Rudrapur, Uttarakhand, India* 🇮🇳
 
-I am a 4th-semester **B.Sc. (PCM) student** at **Kumaun University**. I enjoy taking complex concepts and breaking them down into logical, manageable pieces. Whether it's through code, numbers, or a simple puzzle, I am always eager to learn and explore how systems work behind the scenes. 
+I am a 5th-semester **B.Sc. (PCM) student** at **Kumaun University**. I enjoy taking complex concepts and breaking them down into logical, manageable pieces. Whether it's through code, numbers, or a simple puzzle, I am always eager to learn and explore how systems work behind the scenes. 
 
 ---
 
